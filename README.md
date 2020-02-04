@@ -100,6 +100,18 @@ Find below some of the best and popular resources for learning new technologies/
 
 - **CSS**
      - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+     - [Advanced CSS and Sass | UDEMY](https://www.udemy.com/course/advanced-css-and-sass) -- **PAID**
+     - [CSS Tricks](https://css-tricks.com)
+     - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+     - [Weekly Tutorials on CSS](https://www.youtube.com/user/KepowOb)
+- **JS**
+     - [JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+     - [JS MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+     - [Modern JavaScript From The Beginning | UDEMY](https://www.udemy.com/course/modern-javascript-from-the-beginning) -- **PAID**
+     - [The Complete JavaScript Course | UDEMY (Only if you're familiar with JS)](https://www.udemy.com/course/the-complete-javascript-course) -- **PAID**
+     - [20 Web Projects With Vanilla JavaScript | UDEMY](https://www.udemy.com/course/web-projects-with-vanilla-javascript) -- **PAID**
+     - [Eloquent JavaScript | A great book if you're familiar with JS](https://eloquentjavascript.net)
+     
 
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
